@@ -1,0 +1,72 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+body{
+    background-color: white;
+}
+
+.big-red{
+    position: relative;
+    left: 10%;
+    top: 200px;
+    width: 300px;
+    height: 300px;
+    background-color: #f05030;
+    border-radius: 5%;
+    transform: rotate(45deg);
+}
+
+.stick1{
+    position: relative;
+    left: 148px;
+    bottom: 55px;
+    width: 200px;
+    height: 23px;
+    background-color: whitesmoke;
+    transform: rotate(45deg);
+}
+
+.stick2{
+    position: relative;
+    left: 130px;
+    bottom: 0px;
+    width: 200px;
+    height: 23px;
+    background-color: whitesmoke;
+    transform: rotate(90deg);
+}
+
+.circle1{
+    position: relative;
+    left: 130px;
+    bottom: -45px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: whitesmoke;
+}
+
+.circle2{
+    position: relative;
+    left: 235px;
+    bottom: 80px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: whitesmoke;
+}
+
+.circle3{
+    position: relative;
+    left: 133px;
+    bottom: 225px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: whitesmoke;
+}
