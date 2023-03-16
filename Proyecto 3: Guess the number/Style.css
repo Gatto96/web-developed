@@ -1,0 +1,25 @@
+.backG{
+    background-color: #579BB1 ;
+    padding-top: 11%;
+}
+
+.tittle{
+    color: #E1D7C6;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-justify: auto;
+    padding-bottom: 3rem;
+}
+
+.letter{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+    font-size: 2rem;
+}
+
+.col{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
