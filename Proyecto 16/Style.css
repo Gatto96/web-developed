@@ -1,0 +1,28 @@
+.boody{
+    background-color: #2B3467;
+    margin-top: 15%;
+    margin-left: 27%;
+}
+
+
+.div1{
+    background-color: #BAD7E9;
+    height: 380px;
+    
+}
+
+.div2{
+   margin-bottom: 3%;
+   margin-top: 2%;
+}
+
+.foot{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.row{
+    padding-left: 0px;
+    padding-right: 0px;
+}
